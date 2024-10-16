@@ -1,6 +1,7 @@
 # Dracula for [GoAccess](https://goaccess.io)
 
 > A dark theme for [GoAccess](https://goaccess.io).
+GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems. This Theme is for the Terminal Client only.
 
 ![Screenshot](./screenshot.png)
 
