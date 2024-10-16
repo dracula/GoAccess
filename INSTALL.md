@@ -2,7 +2,7 @@
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/GoAccess/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
