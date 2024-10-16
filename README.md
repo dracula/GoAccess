@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/GoAccess](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![0x17](https://www.nerdbude.com/images/admin.png)](https://github.com/nerdbude) | 
+| <img src="https://www.nerdbude.com/images/admin.png" width="100" | 
 | --------------------------------------------------------------------------------------------- |
 | [0x17](https://github.com/nerdbude)                                              |
 
