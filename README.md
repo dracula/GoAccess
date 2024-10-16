@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/GoAccess](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
+| [![0x17](https://avatars.githubusercontent.com/u/55981615?v=4?size=100)](https://github.com/nerdbude) |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
 
