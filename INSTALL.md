@@ -1,12 +1,4 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### [GoAccess](https://goaccess.io)
 
 #### Install manually
 
@@ -14,6 +6,6 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Find your default config file ```goaccess --dcf```
+2. Copy the code to the colors-section within the config-file 
+3. Bloodsucking Profit ✨
