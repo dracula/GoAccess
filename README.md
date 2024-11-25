@@ -1,8 +1,8 @@
 # Dracula for [GoAccess](https://goaccess.io)
 
 > A dark theme for [GoAccess](https://goaccess.io) (based on the 256 Colors Palette).
-GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems. 
-This Theme is for the Terminal Client only.
+> GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+> This Theme is for the Terminal Client only.
 
 ![Screenshot](./screenshot.png)
 
@@ -14,9 +14,9 @@ All instructions can be found at [draculatheme.com/GoAccess](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| <img src="https://www.nerdbude.com/images/admin.png" width="100"> | 
-| --------------------------------------------------------------------------------------------- |
-| [0x17](https://github.com/nerdbude)                                              |
+| <img src="https://www.nerdbude.com/images/admin.png" width="100"> |
+| ----------------------------------------------------------------- |
+| [0x17](https://github.com/nerdbude)                               |
 
 ## Community
 
